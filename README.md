@@ -247,6 +247,3 @@ The `docs/` directory contains the design artifacts produced during development:
 - `07-user-stories.md` — requirements as user stories
 - `08-tdd-roadmap.md` — feature-by-feature build order
 
-## Roadmap: Generative AI feature
-
-A Generative AI capability is **planned and designed but intentionally not implemented** in this codebase. Its design and analysis are tracked separately so the core platform stays focused and fully tested. No AI code ships here yet.
