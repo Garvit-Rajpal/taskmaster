@@ -1,0 +1,15 @@
+node_modules/
+.env
+.env.local
+coverage/
+uploads/
+*.log
+.DS_Store
+.pgdata/
+dist/
+
+# Generated Prisma client (reproducible via `prisma generate`)
+src/generated/
+
+# Local dev scratch
+smoke.js
